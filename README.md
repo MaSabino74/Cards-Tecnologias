@@ -19,31 +19,52 @@ Um projeto simples e visual que apresenta as principais tecnologias usadas no de
 ---
 
 ---
-<h2 align = "center"📸 Preview do Projeto></h2>
+<div align="center">
+<h2 align = "center">📸 Preview do Projeto</h2>
+<img src="https://github.com/MaSabino74/Cards-Tecnologias/blob/main/Technology%20Cards.jpg"
+  <br>
+<h2 align = "center">Visualização do projetos em outros dispositivos<h/2>
+</div>
+  
+<h2 align = "center">🌟 Visualização do Projeto</h2>
+
+Acesse o link abaixo para visualizar a versão final do projeto:
 
 
-Adicione aqui um print do seu layout quando quiser:
+<br>
+
+
+
 <h2 align = "center"🎨 Layout></h2>
 O design utiliza:
-- Grid Layout (3 cards por linha)
-- Cards com efeito de elevação (hover)
-- Headers clicáveis estilizados como botões
-- Ícones coloridos representando cada tecnologia
-- Tema escuro moderno
-
+Grid Layout (3 cards por linha)
+<br>
+Cards com efeito de elevação (hover)
+<br>
+Headers clicáveis estilizados como botões
+<br> 
+Ícones coloridos representando cada tecnologia
+<br>
+Tema escuro moderno
+<br>
 ---
 
 <h2 align = "center"📱 Responsividade></h2>
 O projeto inclui um arquivo separado (`responsive.css`) que adapta:
+<br>
 - 3 colunas → desktops  
+<br>
 - 2 colunas → tablets  
+<br>
 - 1 coluna → celulares  
 
 ---
 
 ## 🛠 Como executar
 1. Baixe ou clone este repositório  
+<br>
 2. Abra o arquivo **index.html** no navegador  
+<br<
 3. Aproveite a interface interativa  
 
 ---
